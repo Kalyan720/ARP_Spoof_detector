@@ -12,7 +12,6 @@ If a match is found between the IP address or MAC address of the new device and 
 <br>
 Usage<br>
 To use the script effectively, ensure you have Python installed along with the required libraries:<br>
-<br>
 Scapy<br>
 Pandas<br>
 Run the script in a suitable environment where it can monitor network traffic effectively.<br>
